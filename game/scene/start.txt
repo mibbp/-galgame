@@ -3,7 +3,7 @@ bgm:12755.wav;
 intro:(敲门声);
 intro:请进;
 changeBg:c1.jpg;
-bgm:CMJ - 漫天星光（纯音乐版）;
+bgm:CMJ - 漫天星光（纯音乐版）.mp3;
 changeFigure:josei_06_a.png -right -next;
 学姐A:嗯是来了解实验室的吗;
 changeFigure:josei_11_a.png -left -next;
