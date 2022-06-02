@@ -1,0 +1,3 @@
+changeFigure:josei_06_d.png -right -next;
+学姐A:答错了哦，还是听我介绍吧;
+changeScene:C2.txt;

@@ -1,0 +1,12 @@
+intro:ACM|一个致力于程序设计竞赛的实验室|主要涉及传统算法和数据结构|相较其他实验室比较传统也多了一丝枯燥
+bgm:12755.wav;
+intro:(敲门声);
+intro:请进;
+changeBg:c1.jpg;
+bgm:CMJ - 漫天星光（纯音乐版）;
+changeFigure:josei_06_a.png -right -next;
+学姐A:嗯是来了解实验室的吗;
+changeFigure:josei_11_a.png -left -next;
+天才少女:嗯对的学姐;
+学姐A:嗯那你之前有了解过ACM吗？
+choose:了解过:C1.txt|完全不了解:C2.txt;

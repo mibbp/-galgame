@@ -1,0 +1,4 @@
+changeFigure:josei_06_b.png -right -next;
+学姐A:那既然提前了解过那就随便问你几个问题看你了解多少吧(坏笑~);
+学姐A:第一个问题:ACM/ICPC是干什么的？
+choose:A Cute Meizi:wrong.txt|程序设计竞赛，用编程语言解决实际问题:C1-0.txt;

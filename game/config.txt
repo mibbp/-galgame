@@ -1,0 +1,5 @@
+Game_name:西柚天才少女;
+Game_key:x95880b;
+Title_img:main.jpg;
+Title_bgm:;
+Loading_img:none;
