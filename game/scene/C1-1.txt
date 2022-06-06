@@ -1,0 +1,4 @@
+changeFigure:josei_06_b.png -right -next;
+学姐A:恭喜你答对了;
+学姐A:第三个问题:ACM最多几人一队;
+choose:3人:c1-end.txt|1人:wrong.txt|10人:wrong.txt|5人:wrong.txt;

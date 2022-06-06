@@ -22,4 +22,4 @@ changeFigure:josei_06_c.png -right -next;
 不仅需要自己努力训练还需要队友一起努力奋斗，可能训练两三年都不一定能有成效，ACM/ICPC是少数人的游戏也是成功者的孤歌;
 学姐A:其他的想CCPC就是中国程序设计竞赛，跟ICPC差不多，SCCPC就是四川省程序设计竞赛,这个就相对来说没那么难了。;
 学姐A:关于XCPC竞赛差不多就说完了,你还想听听别的竞赛的介绍吗?
-天才少女:嗯不用了学姐:day0.txt|蓝桥杯:lqb.txt|团体程序设计天梯赛:cccc.txt;
+choose:嗯不用了学姐:day0.txt|蓝桥杯:lqb.txt|团体程序设计天梯赛:cccc.txt;

@@ -13,6 +13,6 @@ changeFigure:josei_11_a.png -left -next
 学姐A:这倒不是,蓝桥杯是OI赛制，也是最恶心的赛制，类似于你考试一样，比赛期间可以修改答案，不过没有任何评测信息|
 比赛结束后以最后一次提交为准，然后改卷，到时候你去OJ体验一下就知道了。
 学姐A:关于蓝桥杯竞赛差不多就说完了,你还想听听别的竞赛的介绍吗?
-天才少女:嗯不用了学姐:day0.txt|XCPC:XCPC.txt|团体程序设计天梯赛:cccc.txt;
+choose:嗯不用了学姐:day0.txt|XCPC:XCPC.txt|团体程序设计天梯赛:cccc.txt;
 
 
